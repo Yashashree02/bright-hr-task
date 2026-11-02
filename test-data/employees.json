@@ -1,0 +1,17 @@
+{
+    "employee1": {
+      "firstName": "Alex",
+      "lastName": "Automation",
+      "email": "alex.automation.task1@example.com",
+      "phoneNumber": "07123456789",
+      "jobTitle": "QA Engineer"
+    },
+    "employee2": {
+      "firstName": "Jordan",
+      "lastName": "Tester",
+      "email": "jordan.tester.task2@example.com",
+      "phoneNumber": "07987654321",
+      "jobTitle": "Automation Lead"
+    }
+  }
+  
